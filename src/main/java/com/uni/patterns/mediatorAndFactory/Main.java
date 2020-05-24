@@ -23,7 +23,7 @@ public class Main {
         users.get(0).sendMessage("");
         users.get(4).sendMessage(null);
         users.get(1).sendMessage("Yes. But now I will addBot to this Chat and he will not give us to talk about them.");
-        users.get(2).sendMessage("Noooo...I just waned talk abut cats!");
+        users.get(2).sendMessage("Noo... I just wanted to talk about cats!");
         users.get(5).sendMessage("Hey, are you there?");
         users.get(2).sendMessage("Yes, I am here! Do you hear me?");
     }
